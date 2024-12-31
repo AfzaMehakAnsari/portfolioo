@@ -1,0 +1,8 @@
+# Enforce LF for text files
+* text=auto
+
+# Specific extensions
+*.html text
+*.css text
+*.js text
+*.svg text
